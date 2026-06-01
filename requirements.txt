@@ -1,0 +1,9 @@
+sympy
+numpy
+transformers
+tqdm
+bitsandbytes
+antlr4-python3-runtime==4.11.1
+ipykernel
+jupyter
+vllm==0.19.1
